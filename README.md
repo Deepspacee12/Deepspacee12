@@ -1,7 +1,8 @@
 <h1 align="center">Hey there, I'm Vansh 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00F7FF&center=true&vCenter=true&lines=AI+%7C+ML+%7C+CV+Enthusiast;Real-Time+Systems+%7C+LLM+Apps+Builder;Engineering+Student+%7C+Project+Driven+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00F7FF&center=true&vCenter=true&multiline=true&lines=🚀+AI+%7C+ML+%7C+CV+Enthusiast;🤖+Real-Time+Systems+%7C+LLM+Apps;🧠+Always+Learning+%7C+Building+Cool+Stuff" />
 </p>
+
 
 ---
 
