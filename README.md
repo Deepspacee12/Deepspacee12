@@ -43,8 +43,7 @@ Designed an LSTM-based time-series model to predict S&P 500 stock prices. Prepro
 ### 👗👕Computer_Vison-based-product-recomendation-system
 > **Python, ResNet50, TensorFlow, Streamlit**
 Built a content-based recommendation engine using ResNet50 feature embeddings and k-NN similarity search for personalized product suggestions.
-
-[🔗 View Project](https://github.com/Deepspacee12/Computer_Vison-based-product-recomendation-system)
+>[🔗 View Project](https://github.com/Deepspacee12/Computer_Vison-based-product-recomendation-system)
 
 ### 🔗 Connect With Me
 
