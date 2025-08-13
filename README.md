@@ -47,8 +47,8 @@ Built a content-based recommendation engine using ResNet50 feature embeddings an
 
 ### 🔗 Connect With Me
 
-[![LinkedIn](https://www.linkedin.com/in/vansh-khanna-8a3276252/)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanshkhanna2608@gmail.edu)  
+[![LinkedIn](https://www.linkedin.com/in/vansh-khanna-8a3276252/)]  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanshkhanna2608@gmail.com)  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=blue" alt="profile views"/>
